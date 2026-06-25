@@ -194,9 +194,29 @@ flutter run
 
 ## Ekran Goruntuleri
 
-> Ekran goruntuleri eklenmistir. Asagida uygulamalarin temel ekranlari yer almaktadir.
+### Admin Panel - Dashboard
+![Dashboard](screenshots/dashboard.jpeg)
 
-*(Ekran goruntuleri GitHub reposunun `/screenshots` klasorune eklenecektir)*
+### Admin Panel - Kampanyalar
+![Kampanyalar](screenshots/kampanyalar.jpeg)
+
+### Admin Panel - Menu & Urunler
+![Menu & Urunler](screenshots/menu-urunler.jpeg)
+
+### Admin Panel - Subeler
+![Subeler](screenshots/subeler.jpeg)
+
+### Admin Panel - Baristalar
+![Baristalar](screenshots/baristalar.jpeg)
+
+### Admin Panel - Yorumlar
+![Yorumlar](screenshots/yorumlar.jpeg)
+
+### Admin Panel - Istatistikler
+![Istatistikler](screenshots/istatistikler.jpeg)
+
+### Admin Panel - Ayarlar
+![Ayarlar](screenshots/ayarlar.jpeg)
 
 ---
 
