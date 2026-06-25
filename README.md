@@ -4,7 +4,7 @@
 
 | Bilgi | Detay |
 |-------|-------|
-| **Ad Soyad** | Sergul Yilmaz |
+| **Ad Soyad** | Sergül Yılmaz |
 | **Ogrenci No** | 24010502167 |
 | **Ders** | CPP214 |
 
