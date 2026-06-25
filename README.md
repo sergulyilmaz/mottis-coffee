@@ -70,7 +70,7 @@ Musteri her kahve aldikca barista QR kodu tarar ve 1 pul eklenir. **8 pul = 1 uc
 ## Proje Klasor Yapisi
 
 ```
-Laveria/
+mottis-coffee/
 ├── mottis-backend/          # Node.js REST API
 │   ├── src/
 │   │   ├── app.js           # Ana uygulama ve route tanimlari
